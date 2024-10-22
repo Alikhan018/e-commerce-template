@@ -34,8 +34,8 @@
 #left {
   display: flex;
   align-items: center;
-  width: 70%;
-  gap: 10px;
+  width: 80%;
+  gap: 6px;
   #logo {
     display: flex;
     align-items: center;
@@ -46,7 +46,7 @@
     }
   }
   #search {
-    width: 80%;
+    width: 100%;
     display: flex;
     gap: 10px;
     #search-bar {
