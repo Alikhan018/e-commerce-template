@@ -95,7 +95,7 @@
     }
 }
 .banner-img{
-    background-image: url(./assets/images/banner.png);
+    background-image: url(../../assets/images/banner.png);
     height: 400px;
 }
 .banner-section {

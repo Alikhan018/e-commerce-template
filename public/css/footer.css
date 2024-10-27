@@ -9,6 +9,7 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 40px;
+    border-top: 1px solid gray;
     .upper-footer{
         display: flex;
         width: 100%;
